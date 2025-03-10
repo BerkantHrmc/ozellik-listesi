@@ -1,6 +1,6 @@
-1. Kullanıcı dostu arayüz
+1. Hızlı veri işleme
 2. Yüksek güvenlik seviyesi
-3. Hızlı veri işleme
+3. Kullanıcı dostu arayüz
 4. API desteği
 
 
